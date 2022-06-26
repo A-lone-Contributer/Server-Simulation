@@ -1,2 +1,2 @@
 # Server-Simulation
-A Multi-threaded delay server simulation without any HTTP library
+A Multi-threaded delay server without using any HTTP library
